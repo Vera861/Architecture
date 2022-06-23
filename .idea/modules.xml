@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eshop-gb-spring.iml" filepath="$PROJECT_DIR$/eshop-gb-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-admin-app/shop-admin-app.iml" filepath="$PROJECT_DIR$/shop-admin-app/shop-admin-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-back-api-app/shop-back-api-app.iml" filepath="$PROJECT_DIR$/shop-back-api-app/shop-back-api-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-database/shop-database.iml" filepath="$PROJECT_DIR$/shop-database/shop-database.iml" />
+    </modules>
+  </component>
+</project>
